@@ -1,2 +1,6 @@
 # csd-340
- CSD340-312A Web Development with HTML
+ # CSD 340 Web Development with HTML and CSS
+ ## Contributors
+ * Professor Tracy Shelanskey
+ * Jimmy Easter
+ 
